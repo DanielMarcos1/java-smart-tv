@@ -1,6 +1,6 @@
 ## Smart TV
 
-On this project, I'm creating a working basic Smart TV which uses my knowlegde from methods in Java.
+On this project, I'm creating a working basic Smart TV which uses methods in Java.
 
 ### Details
 
