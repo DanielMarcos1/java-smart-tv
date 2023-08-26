@@ -1,18 +1,7 @@
-## Getting Started
+## Smart TV
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+On this project, I'm creating a working basic Smart TV which uses my knowlegde from methods in Java.
 
-## Folder Structure
+### Details
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The smart TV contains 3 basics commands which are switch on/off, turn the volume up/down and which channel the user wants to watch.
